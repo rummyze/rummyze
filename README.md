@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a full devops engineer based in Moldova who is passionate about everything related to technology. <br>
+I'm a devops engineer based in Moldova who is passionate about everything related to technology. <br>
 When I need to unwind, I usually spend time outside or play video games.
 
 ## About Me
